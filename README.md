@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1>Hi 👋 I'm Shrihari</h1>
-  <p><img src="https://hit.yhype.me/github/profile?user_id=107775884" alt="shrihari"/></p>
+  <p><img src="https://komarev.com/ghpvc/?username=Shrihari-eb" alt="shrihari"/></p>
+  <!-- https://github.com/antonkomarev/github-profile-views-counter   -->
 </div>
 
 ### 💻 &nbsp; About Me
